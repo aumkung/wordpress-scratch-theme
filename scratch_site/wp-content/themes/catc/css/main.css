@@ -74,7 +74,7 @@ header .top-bar .menu-item-has-children .sub-menu > .menu-item-has-children:hove
 
 header .container {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     height: 100%;
 }
